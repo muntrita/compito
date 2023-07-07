@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  background-color: #e9edee;
+}
+body,
+head {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.logo {
+  text-align: justify;
+  padding-bottom: 5px;
+  background-color: #222f3f;
+  padding-left: 25px;
+}
+ul {
+  padding-left: 25px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  margin: 0;
+  color: white;
+}
+.tabella {
+  background-color: #35475c;
+}
+.tabella li {
+  display: inline;
+}
+.arancio {
+  background-color: #f66503;
+  color: white;
+  text-align: center;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  margin: 22px;
+}
+.regali {
+  background-image: url(./bg-image.png);
+  background-size: cover;
+  color: white;
+  margin-inline: 21px;
+  text-align: center;
+}
+.back {
+  background-color: white;
+  margin-bottom: 25px;
+}
+.back img {
+  float: left;
+  width: 70%;
+  padding: 5px;
+  padding-left: 25px;
+  border-radius: 50px;
+  width: 470px;
+  height: 520px;
+}
+.scritta {
+  padding-left: 25px;
+}
+.scritta a {
+  text-decoration: none;
+}
+.photos {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+.photos image {
+  text-align: center;
+  padding-left: 25px;
+  padding-right: 25px;
+  padding-top: 25px;
+  margin-top: 30px;
+}
+.photos h3 {
+  text-align: center;
+}
+.photos a {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  margin: 0;
+}
+footer h4 {
+  background-color: #35475c;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  margin: 0;
+}
+footer a {
+  color: white;
+}
+.foot {
+  background-color: #222f3f;
+  padding-top: 20px;
+  margin: 0;
+}
